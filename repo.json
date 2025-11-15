@@ -1,12 +1,8 @@
-[
-  {
-    "name": "BenimM3uEklentim",
-    "version": 1,
-    "sources": [
-      "https://raw.githubusercontent.com/retro70/kekik-reco/master/builds/plugins.json"
-    ],
-    "fileSize": 12345, // Dosya boyutu (bayt cinsinden)
-    "description": "Bu eklenti benim M3U listelerimden film ve dizileri getirir.",
-    "logo": "https://.../logo.png" // Opsiyonel logo URL'si
-  }
-]
+{
+  "name": "XTREME",
+  "description": "Cloudstream için Türkçe içerik sağlayıcı – Kekik Reco eklentisi",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/retro70/kekik-reco/master/builds/plugins.json"
+  ]
+}
