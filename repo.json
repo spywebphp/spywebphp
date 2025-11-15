@@ -1,0 +1,12 @@
+[
+  {
+    "name": "BenimM3uEklentim",
+    "version": 1,
+    "sources": [
+      "https://raw.githubusercontent.com/<KullaniciAdiniz>/<RepoAdiniz>/main/OrnekM3uPlugin.kt"
+    ],
+    "fileSize": 12345, // Dosya boyutu (bayt cinsinden)
+    "description": "Bu eklenti benim M3U listelerimden film ve dizileri getirir.",
+    "logo": "https://.../logo.png" // Opsiyonel logo URL'si
+  }
+]
